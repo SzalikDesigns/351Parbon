@@ -27,11 +27,10 @@ Logos received the same improvements too, to improve readability and consistent 
 ---
 
 ## Extra Credits:
-Thanks for **dhwz** for his amazing work on logos
-
-Thanks for **Jetup13** for some of his changes for ArkOs :)
-
-Thanks for genuine author of carbon theme **Rookervik**
+  
+- Thanks for **dhwz** - done amazing work on logos / backgrounds
+- Thanks for **Jetup13** - editor of genuine theme
+- Thanks for **Rookervik** - genuine author of carbon theme 
 
 ---
 ## License
